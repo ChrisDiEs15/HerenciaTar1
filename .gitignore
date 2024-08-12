@@ -1,0 +1,39 @@
+# Directorios de NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nbm/
+
+# Archivos de respaldo creados por el IDE
+*.bak
+*.orig
+*.rej
+*~
+
+# Archivos de NetBeans específicos del sistema
+nbproject/Makefile-*
+nbproject/Package-*
+nbproject/configs/*
+
+# Archivos de NetBeans que se pueden regenerar
+nbproject/genfiles.properties
+nbproject/private/private.properties
+
+# Archivos de salida y de compilación
+build/
+dist/
+
+# Archivos de configuración específicos de la máquina
+*.iml
+*.ipr
+*.iws
+.idea/
+*.DS_Store
+
+# Archivos de log
+*.log
+
+# Dependencias descargadas
+lib/
